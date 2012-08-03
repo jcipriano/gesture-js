@@ -1,11 +1,11 @@
 gesture-js
 ==========
 
-A jQuery plugin implementing [$1 Unistroke Recogizer](http://depts.washington.edu/aimgroup/proj/dollar) for mouse gesture detection.
+A jQuery plugin implementing [$1 Unistroke Recognizer](http://depts.washington.edu/aimgroup/proj/dollar) for mouse gesture detection.
 
 #### About
 
-Gesture.js listens for mousedown, mousemove, and mouseup events of a selected element. Coordinates are recored when the mouse is moved and processed with *$1 Unistroke Recogizer*.
+Gesture.js listens for mousedown, mousemove, and mouseup events of a selected element. Coordinates are recored when the mouse is moved and processed with *$1 Unistroke Recognizer*.
 
 #### Using
 
